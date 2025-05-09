@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tareas</string>
+    <string name="hola_jaguito">Hola Jaguito!</string>
+    <string name="mi_app_de_prueba">Mi APP de prueba</string>
+    <string name="click">Click</string>
+    <string name="ingresa_texto">Ingresa Texto</string>
+    <string name="ingresa_texto1" />
+    <string name="todo">TODO</string>
+    <string name="ingresa_numeros" />
+    <string name="whatsapp">Whatsapp</string>
+</resources>
